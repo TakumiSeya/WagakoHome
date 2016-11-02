@@ -19,4 +19,13 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/textView2" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/boku"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:id="@+id/imageView" />
+
 </RelativeLayout>
